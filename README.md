@@ -11,27 +11,6 @@ The corrected and updated version is on the way to me and once I can confirm it 
 
 Bill of Materials: 
 
-Part	Source	Cost (€)	Note
-ProMicro (aka NiceNano)	AliExpress
-AliExpress	5€
-2x for 5€	⚠️Please read it before buying red ProMicros⚠️
-HT-RA62	AliExpress	5€	You can also use RA-01SH
-SMD resistor	AliExpress	3€ pack
-0.1€/resistor	You can buy a package of multiple values for a few €.
-Choose depending on material you already have &/or soldering skills. I'm using 2x 1M ohms
-OLED SSD1306 i2c (optional)	AliExpress	1.5€	No need to solder, just be careful and add some tape in between the boards to avoid a short.
-Antenna pigtail (recommended)	AliExpress	2€	I saw that it underperformed with a cheap black pigtail, after using one of these, it worked fine.
-PCB		2€ pack of 5
-0.4€/unit	Use your favourite company to get the PCB.
-2x Buttons	AliExpress	1.8€ pack
-0.1€/button	You can buy a package of 100 for a few €.
-I couldn't find a part code, search for "3*4*2.0 2 Pin Button"
-#16 lupusworax's v4
-Mosfets SI2312	AliExpress	9€ pack of 200
----
-#16 lupusworax's v4
-Resistors	AliExpress	2.4€ pack of 100
----
 
 
 
