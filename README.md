@@ -1,4 +1,4 @@
-# MeshtasticMini-ultimate-
+# MiniX-FakeTec
 An improved and updated variant of the original Meshtastic Mini
 
 A user on Discord pointed me to a PCB design on a chinese website (https://oshwhub.com/shenye894/meshtastic-mini), intrigqued by the form factor and the almost identical used parts from a FakeTec board I ordered a bunch of them. 
